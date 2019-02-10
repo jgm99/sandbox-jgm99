@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<probincias>
+    <probincia id="galicia">
+        <nombre>Galicia</nombre>
+        <descripcion>Galicia es una comunidad autónoma española, considerada nacionalidad histórica según su Estatuto de
+            Autonomía,4​ situada en el noroeste de la península ibérica. Está formada por las provincias de La Coruña,
+            Lugo, Orense y Pontevedra, que se componen de 313 municipios5​ agrupados en 53 comarcas. La capital es la
+            ciudad de Santiago de Compostela, mientras que Vigo es el municipio más poblado.
+
+            Geográficamente, es bañada al norte y al oeste por el océano Atlántico. Limita al sur con Portugal y al este
+            con Asturias y Castilla y León (provincias de Zamora y de León). Además del territorio continental, incluye
+            los archipiélagos de las islas Cíes, el de Ons y el de Sálvora, las islas de Cortegada, Arosa, las Sisargas,
+            las Malveiras y otras más pequeñas.
+
+            Galicia posee 2 726 291 habitantes (INE, 1 de julio de 2015), con una distribución demográfica que aglomera
+            la mayor parte de la población en las franjas costeras comprendidas entre Ferrol y La Coruña en el noroeste
+            y entre Villagarcía de Arosa, Pontevedra y Vigo en el suroeste. En su territorio se hablan el castellano y
+            el gallego, ambas cooficiales según el Estatuto de Autonomía de Galicia, si bien en este el gallego es la
+            definida como «lengua propia» de la comunidad.
+
+            Tiene una fuerte vinculación histórica con el Reino de Galicia.
+        </descripcion>
+        <imagen>https://intriper.com/wp-content/uploads/2018/05/Galicia-Spain.jpg</imagen>
+        <actividades>
+            <actividad1>ymkana Humor Amarillo en Vigo. Playa de Samil. Rías Baixas (Pontevedra) Galici</actividad1>
+            <actividad2>ymkana en Atalaia. Tirolina, rocódromo, futbolín humano y circuito Ninja Warrior</actividad2>
+        </actividades>
+    </probincia>
+
+    <probincia id="baleares">
+        <nombre>Baleares</nombre>
+        <descripcion>Las Islas Baleares (en catalán y oficialmente, Illes Balears)1​ son una comunidad autónoma
+            uniprovincial española, compuesta por las islas del archipiélago balear. Se encuentran situadas en el mar
+            Mediterráneo, frente a la costa oriental de la península ibérica. Su capital es Palma de Mallorca.
+
+            El archipiélago está formado por dos grupos de islas y numerosos islotes: las islas Gimnesias (Mallorca,
+            Menorca, Cabrera y algunos islotes cercanos como Dragonera, Conejera o la isla del Aire) y las islas
+            Pitiusas (Ibiza —en catalán y oficialmente Eivissa— y Formentera, junto los islotes que las rodean, como
+            Espalmador —esta de propiedad privada— y Espardell).
+        </descripcion>
+        <imagen>http://hablemosdeislas.com/wp-content/uploads/2018/06/Islas-Baleares-1.jpg</imagen>
+    </probincia>
+
+</probincias>

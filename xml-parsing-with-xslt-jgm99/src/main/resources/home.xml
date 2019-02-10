@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE note [
+        <!ELEMENT note (heading,body,nodes)>
+        <!ELEMENT heading (#PCDATA)>
+        <!ELEMENT body (#PCDATA)>
+        <!ELEMENT nodes (link*)>
+        <!ELEMENT link (#PCDATA)>
+        ]>
+<note>
+    <heading>My first Html dynamic website</heading>
+    <body>Old treasure but still useful for reporting</body>
+    <nodes>
+        <link>/parse/jarburgueseria</link>
+        <link>/parse/indice</link>
+        <link>/parse/list</link>
+        <link>/parse/internal-dtd</link>
+        <link>/parse/message</link>
+        <link>/parse/xml-output</link>
+        <link>/dynamic</link>
+    </nodes>
+</note>

@@ -1,0 +1,18 @@
+header{
+    background-color: blue;
+}
+
+
+section{
+    background-color: blueviolet;
+}
+.description{
+    background-color: aqua;
+}
+article{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+footer{
+    background-color: red;
+}

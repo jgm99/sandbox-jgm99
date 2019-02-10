@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT Mensajes (Mensaje*)>
+<!-- Este es el DTD de Edit_Mensaje -->
+<!ELEMENT Mensaje (Remitente, Destinatario, Texto)*>
+<!ELEMENT Remitente (Nombre, Mail)>
+<!ELEMENT Destinatario (Nombre, Mail)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Mail (#PCDATA)>
+<!ELEMENT Texto (Asunto, Parrafo)>
+<!ELEMENT Asunto (#PCDATA)>
+<!ELEMENT Parrafo (#PCDATA)>

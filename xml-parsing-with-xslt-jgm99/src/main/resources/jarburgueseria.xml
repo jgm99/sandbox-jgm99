@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pedidos>
+    <pedido>
+        <restaurante>JARBURGESERIA</restaurante>
+        <direcion>C/Falsa 123</direcion>
+        <idpedido>5432</idpedido>
+        <hamburgesa>BigMac</hamburgesa>
+        <cantidad>4</cantidad>
+        <precio>3</precio>
+    </pedido>
+    <pedido>
+        <restaurante>JARBURGESERIA</restaurante>
+        <direcion>C/Falsa 123</direcion>
+        <idpedido>5436</idpedido>
+        <hamburgesa>MACburger</hamburgesa>
+        <cantidad>2</cantidad>
+        <precio>4</precio>
+    </pedido>
+</pedidos>
